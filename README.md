@@ -53,6 +53,7 @@ int main()
 ````
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/2b80c5fe-f51b-4190-9e23-514f3511e6de)
+![image](https://github.com/user-attachments/assets/ab43e2cb-2abb-4c80-8ad6-04671e7f1b93)
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
